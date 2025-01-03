@@ -2,7 +2,7 @@
 
    <h3 align="center">A Ecommerce Price Tracking Application</h3>
   <br />
-      <img src="" alt="Project Banner">
+      <img src="https://github.com/Rotaralexc/Pricewise-WebScraping-NextJs/blob/490285008b0a7c9087c4bfe595daebf9e019fe53/PriceWise.png" alt="Project Banner">
   <br />
 
  <h3 align="center">DEMO</h3>
